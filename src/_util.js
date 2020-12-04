@@ -1,0 +1,1 @@
+export const initialValues = { firstNum: "", secondNum: "", result: 0 };
